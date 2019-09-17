@@ -9,8 +9,6 @@ In this 2-day workshop – held in English - media artist Stefan Kraus introduce
 
 The course combines a general introduction to experience design techniques with hands-on exercises.
 
-In this workshop you will understand:
-
 Requirements : Laptop with a 3-button mouse
 
 The latest, <b>experimental</b> release of TouchDesigner099 installed
