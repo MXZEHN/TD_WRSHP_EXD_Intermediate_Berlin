@@ -16,10 +16,10 @@ The latest, <b>experimental</b> release of TouchDesigner099 installed
 Participants are welcome to bring their own MIDI devices
 _______________________________
 
-This workshop draws inspiration from many sources:
+This workshop draws inspiration from many sources, among them:
 
 https://github.com/Richard-Burns/Previz
 
 https://matthewragan.com/2015/07/05/touchdesigner-understanding-extensions/
 
-
+https://matthewragan.com/2019/09/09/touchdesigner-packing-up-a-tox-for-distribution
