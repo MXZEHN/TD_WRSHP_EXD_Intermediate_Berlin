@@ -12,6 +12,9 @@ The course combines a general introduction to experience design techniques with 
 In this workshop you will understand:
 
 Requirements : Laptop with a 3-button mouse
+
 The latest, <b>experimental</b> release of TouchDesigner099 installed
+
 Participants are welcome to bring their own MIDI devices
+
 
