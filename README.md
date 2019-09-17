@@ -14,5 +14,10 @@ Requirements : Laptop with a 3-button mouse
 The latest, <b>experimental</b> release of TouchDesigner099 installed
 
 Participants are welcome to bring their own MIDI devices
+_______________________________
+
+This workshop draws inspiration from many sources:
+
+https://github.com/Richard-Burns/Previz
 
 
