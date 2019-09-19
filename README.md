@@ -27,3 +27,5 @@ https://matthewragan.com/2015/07/05/touchdesigner-understanding-extensions/
 https://matthewragan.com/2019/09/09/touchdesigner-packing-up-a-tox-for-distribution
 
 https://nvoid.github.io/
+
+https://matthewragan.com/2018/11/28/touchdesigner-save-external/
