@@ -29,3 +29,5 @@ https://matthewragan.com/2019/09/09/touchdesigner-packing-up-a-tox-for-distribut
 https://nvoid.github.io/
 
 https://matthewragan.com/2018/11/28/touchdesigner-save-external/
+
+https://www.elburz.io/wtf-is-convex-decomposition/
