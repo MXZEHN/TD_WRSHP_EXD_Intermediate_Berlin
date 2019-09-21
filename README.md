@@ -31,3 +31,5 @@ https://nvoid.github.io/
 https://matthewragan.com/2018/11/28/touchdesigner-save-external/
 
 https://www.elburz.io/wtf-is-convex-decomposition/
+
+https://adamlvachon.tumblr.com/post/67335719744/lighting-profiles-dmx-and-touchdesigner
